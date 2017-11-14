@@ -1,2 +1,3 @@
 # OPS100V_Class
-Q&amp;A
+Task:
+Fork this repo and complete the java file for completing the pagereplacement algorithms.
