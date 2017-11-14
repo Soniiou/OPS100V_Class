@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class PageReplacement{
 
   int a[][];
@@ -25,3 +24,6 @@ public class PageReplacement{
     PageReplacement pr=new PageReplacement(n);
   }
 }
+
+
+//This is a test
