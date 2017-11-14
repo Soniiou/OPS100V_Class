@@ -1,5 +1,9 @@
 You have a computer system with 256MB Virtual memory and 64MB Main Memory with frame size of 8MB.
-What is the number of Pages? 32 Pages
-What is the number of Frames?  8 Frames
-What is the size of the virtual address? 256MB
-What is the size of the physical address? 64MB
+
+What is the number of Pages?
+32
+What is the number of Frames?
+8
+What is the size of the virtual address?
+What is the size of the physical address?
+
