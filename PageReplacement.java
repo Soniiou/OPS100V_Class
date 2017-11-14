@@ -1,7 +1,7 @@
 import java.util.*;
 public class PageReplacement{
 
-  
+  //you may need to introduce more variables
 
   PageReplacement(int frameNos){
       
